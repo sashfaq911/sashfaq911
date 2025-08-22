@@ -5,7 +5,7 @@
 - 👀 I’m interested in **all things AI**
 - 🌱 I’m currently working on GenAI projects
 - 💞️ I’m looking to collaborate on Data Science projects (ML, DL, NLP)
-- 👨‍💻 All of my projects are available at [sashfaq.com]()
+- 👨‍💻 All of my projects are available at [comingsoon.com]()
 - 📫 How to reach me: message me here
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a plant mom!
