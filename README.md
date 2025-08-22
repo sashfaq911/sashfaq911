@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm S.Ashfaq</h1>
-<h3 align="center">Healthcare Professional --> Certified AI Scientist (CAIS)</h3>
+<h3 align="center">Healthcare Professional **⟶** Certified AI Scientist (CAIS)</h3>
 
 - 👀 I’m interested in **all things AI**
 - 🌱 I’m currently working on GenAI projects
