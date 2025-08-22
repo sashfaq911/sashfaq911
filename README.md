@@ -1,5 +1,5 @@
-![Header](./github-header-image1.png)
-<h1 align="center">Hi 👋, I'm @sashfaq911</h1>
+
+<h1 align="center">Hi 👋, I'm S.Ashfaq</h1>
 <h3 align="center">A passionate Certified AI Scientist (CAIS)</h3>
 
 - 👀 I’m interested in **all things AI**
