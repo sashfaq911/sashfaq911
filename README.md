@@ -3,11 +3,11 @@
 <h3 align="center">Healthcare Professional ⟶ Certified AI Scientist (CAIS)</h3>
 
 - 👀 I’m interested in **all things AI**
-- 💞️ I’m looking to collaborate on Data Science projects (ML, DL, NLP)
-- 👨‍💻 All of my projects are available at [soobiya.notion.site](https://soobiya.notion.site/Soobiya-Ashfaq-Portfolio-2d7a0795491e80d199eaff9a76c7a02b?source=copy_link)
+- 💞️ I’m looking to collaborate on Gen AI & Data Science projects 
+- 👨‍💻 All of my projects are available at [My Portfolio](https://soobiya.notion.site/Soobiya-Ashfaq-Portfolio-2d7a0795491e80d199eaff9a76c7a02b?source=copy_link)
 - 📫 How to reach me: message me here
 - 😄 Pronouns: she/her
-- 🌱 Fun fact: I'm a plant mom!
+- 🌱 Fun fact: I'm a happy plant mom!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
